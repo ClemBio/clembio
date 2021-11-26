@@ -16,7 +16,6 @@
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClemBio&theme=midnight-purple&layout=compact&hide_border=true&langs_count=8&hide=html,css,blade,makefile,batchfile,shell" />
   <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
-<a href="https://discord.gg/Biboux#0006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Biboux#0006" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
