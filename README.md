@@ -12,6 +12,7 @@
 - 📫 To contact me **Biboux#0006**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
 <p align="left">
 <a href="https://discord.gg/Biboux#0006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Biboux#0006" height="30" width="40" /></a>
 </p>
